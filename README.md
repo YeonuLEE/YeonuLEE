@@ -16,10 +16,18 @@
 <h2 align="center">Yeonu's GitHub Stats</h3>
 <div align="center">
   
-<footer>
+<table>
+
+<td>  
   
-![Yeonu's github stats]https://github-readme-stats.vercel.app/api?username=YeonuLee&show_icons=true
+![Yeonu's github stats](https://github-readme-stats.vercel.app/api?username=YeonuLee&show_icons=true
+  
+</td>
+  
+<td>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldusdn8060)](https://solved.ac/dldusdn8060/)
-
-</footer>
+  
+</td>
+  
+<table>
