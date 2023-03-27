@@ -13,14 +13,13 @@
 <a href="https://java.com/ko/"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white" /></a> <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white" /></a> <a href="https://go.mariadb.com/"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=MariaDB&amp;logoColor=white" /></a>
 #
 
-<h2 align="center">Yeonu's GitHub Stats</h3>
 <div align="center">
   
 <table>
 
 <td>  
   
-![GitHub & Solved.ac](https://github-readme-stats.vercel.app/api?username=YeonuLee&show_icons=true)
+![Yeonu's Github stats](https://github-readme-stats.vercel.app/api?username=YeonuLee&show_icons=true)
   
 </td>
   
@@ -31,3 +30,5 @@
 </td>
   
 <table>
+  
+</div>
