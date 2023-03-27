@@ -16,9 +16,10 @@
 <h2 align="center">Yeonu's GitHub Stats</h3>
 <div align="center">
   
- ![YeonuLee's github stats](https://github-readme-stats.vercel.app/api?username=YeonuLee&show_icons=true)
-
-[![YeonuLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeonuLee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+<span>
   
+![YeonuLee's github stats](https://github-readme-stats.vercel.app/api?username=YeonuLee&show_icons=true)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldusdn8060)](https://solved.ac/dldusdn8060/)
+
+</span>
