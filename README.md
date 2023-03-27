@@ -20,7 +20,7 @@
 
 <td>  
   
-![Yeonu's github stats](https://github-readme-stats.vercel.app/api?username=YeonuLee&show_icons=true
+![Yeonu's github stats](https://github-readme-stats.vercel.app/api?username=YeonuLee&show_icons=true)
   
 </td>
   
