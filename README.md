@@ -3,19 +3,21 @@
 *Computer Engineering* 
 *(2017.03. - 2023.02.)*
 
+### Kongju National Univ Student Ambassador 15th 
+*(2017.05. - 2022.02)*
+- *Team leader of Media Content*
+*(2018.02 - 2018. 07)*
+
+- *Team leader of the video team*
+*(2021.01 - 2022. 02)*
+
+
 ### Multicampus KDT JAVA Back-End Developer Camp 8th
 *(2023.01. - 2023.05.)*
 
 
+# Skills
 
-
-
-# CONTACT
-E-Mail : *dusdn8060@gmail.com*
-
-# Skill Set
-
-### Front-End
 
 <div align="left">
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,8 +29,6 @@ E-Mail : *dusdn8060@gmail.com*
  <img src="https://img.shields.io/badge/Ajax-3776AB?style=for-the-badge&logo=&logoColor=white">
  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
-
-### Back-End
 <div align="left">
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -43,4 +43,4 @@ E-Mail : *dusdn8060@gmail.com*
   
 
 ![Yeonu's Github stats](https://github-readme-stats.vercel.app/api?username=YeonuLee&show_icons=true)
-[![Yeonu's github activity graph](https://activity-graph.herokuapp.com/graph?username=YeonuLee&theme=monokai)](https://github.com/YeonuLee/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeonuLee)](https://github.com/YeonuLee/github-readme-stats)
