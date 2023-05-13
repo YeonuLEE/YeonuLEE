@@ -43,3 +43,4 @@ E-Mail : *dusdn8060@gmail.com*
   
 
 ![Yeonu's Github stats](https://github-readme-stats.vercel.app/api?username=YeonuLee&show_icons=true)
+[![Yeonu's github activity graph](https://activity-graph.herokuapp.com/graph?username=YeonuLee&theme=monokai)](https://github.com/YeonuLee/github-readme-activity-graph)
